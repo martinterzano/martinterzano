@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**martinterzano/martinterzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -I'm an economist with an analytical mindset who has twisted his career to
 develop the necessary skills to evolve in a world of data. I'm passionate
 about helping companies to improve their decision-making process through
