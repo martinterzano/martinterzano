@@ -1,0 +1,15 @@
+-Background of the analysis: 
+
+Company “X” sells a healthcare product under a subscription model. It was identified, through information coming from the "monthly sales" and "customers" reports, that there is no stability in the company flow of sales and there are few clients with more than a few operations, so they are not maintained over time. We assume there is a customer loyalty and retention problem.
+
+-Objective of the analysis: 
+
+This cohort analysis identifies customer retention from the monthly first purchase of each of them. 
+
+We will try to identify:
+  1) If there is uniformity in the behavior of customers measured as the average time in which a customer purchases a product for the first time until he stops consuming it.
+  2) If the retention problem refers to a specific window of time. In this case, the customer acquisition campaigns that were carried out in each of the months of analysis will be evaluated.
+
+-Period of analysis:
+ 
+ December 2019 – August 2021
