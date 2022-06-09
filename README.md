@@ -12,6 +12,7 @@ data-driven solutions and the use of advanced technological tools.
 -:bulb: [Medium articles] (https://medium.com/@mnterzano)
 -:envelope: mnterzano@gmail.com
 - 😄 Pronouns: he/him/his
+- Technologies: SQL, Power BI/Tableau, Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinterzano&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/martinterzano/github-readme-stats)
 
