@@ -1,22 +1,49 @@
-### Hi there 👋
+# Martín Terzano
 
--I'm an economist with an analytical mindset who has twisted his career to
-develop the necessary skills to evolve in a world of data. I'm passionate
-about helping companies to improve their decision-making process through
-data-driven solutions and the use of advanced technological tools. 
--I :blue_heart: storytelling
-- 🔭 I’m currently looking for a job :monocle_face: and showing some of my work to whoever wants to look at it :man_teacher: 
-- Advices for improving are absolutely welcome :smile:.
-- 📫 How to reach me:
--:office: [LinkedIn] (https://www.linkedin.com/in/martinterzano/)
--:bulb: [Medium articles] (https://medium.com/@mnterzano)
--:envelope: mnterzano@gmail.com
-- 😄 Pronouns: he/him/his
-- Technologies: SQL, Power BI/Tableau, Python (Pandas, Numpy, Matplotlib, Seaborn)
+**Data Scientist** | Barcelona, Spain  
+Building production ML models and cloud-native data pipelines.
 
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinterzano&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/martinterzano/github-readme-stats)
+Currently deploying predictive models on GCP for insurance and marketing analytics. Google Cloud Professional Data Engineer certified.
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/2" alt="Recent Article 2">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mnterzano/3" alt="Recent Article 3">
+### Tech Stack
+
+**ML & Data Science:** Python · LightGBM · scikit-learn · pandas · SHAP  
+**Cloud & MLOps:** GCP (Vertex AI, BigQuery, Cloud Composer) · Airflow  
+**BI & Visualization:** Power BI · Tableau · Looker  
+**Automation:** Claude Code · Anthropic API · agentic workflows
+
+### Production Work
+
+**Predictive Lifetime Value (pLTV)** (2026)  
+LightGBM Tweedie regression model ranking 2M+ policyholders by 24-month revenue potential. Powers customer prioritization in Next Best Action strategy.
+
+**Lapse Prediction Model** (2025)  
+End-to-end binary classification model predicting early policy cancellation. Weekly batch scoring in production via Cloud Composer DAG. Training on 5 years of historical data, OOT validation, probability calibration.
+
+### Personal Projects
+
+**Semantic Matching & Document Automation** (2026)  
+Multi-agent system orchestrating content analysis, semantic scoring, and automated document generation. Built with Claude Code and Anthropic API, implementing structured output validation, batch processing, and quality review workflows. Includes Google Sheets integration via API for tracking and an analytics dashboard built with Chart.js.
+
+**Stack:** Python · Claude Code · Anthropic API · python-docx · Google Sheets API · Chart.js  
+**Highlights:** Agent orchestration · semantic fit scoring · HITL quality gates · automated tracking
+
+[📂 Repository coming soon]
+
+### Other Work
+
+**Employee Turnover Prediction** (ESADE Capstone, 2023) — Classification + regression models reducing hiring costs by 20%. Real-time Power BI dashboards for HR decision-makers.
+
+**Customer Segmentation & Churn** (Balún, 2022) — K-means RFM segmentation + ensemble churn models for healthcare subscription company. Documented reduction in churn rate.
+
+**Credit Scoring Model** (Credigo, 2020) — Logistic regression for microloan default prediction. Integrated internal and external bureau data with threshold optimization for recall.
+
+### Background
+
+- **Executive Master in Business Analytics** — ESADE Business & Law School (2023)
+- **Google Cloud Professional Data Engineer** — Valid through May 2027
+- Co-founded **Balún**, a data consultancy serving clients across LATAM (2020-2022)
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/martinterzano) · mnterzano@gmail.com
