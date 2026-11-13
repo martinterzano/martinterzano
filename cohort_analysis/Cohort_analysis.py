@@ -25,7 +25,7 @@ import matplotlib.colors as mcolors
 
 #ETL
 
-"""I import the dataframe containing all the sales in the last 2 years. It has cancelled, paid and pending sales. 
+"""I import the dataframe containing all the sales in the last 2 years. It has canceled, paid and pending sales. 
     I the filter the dataframe:
         1) to have only rows from sales that have been paid.
         2) to have only sales with an identified customer so I delete customers without ID.

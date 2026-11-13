@@ -19,7 +19,7 @@ Available for freelance projects and consulting engagements.
 
 **Case studies**
 
-*Predictive modelling*
+*Predictive modeling*
 - [pltv-case-study](https://github.com/martinterzano/pltv-case-study) — LightGBM Tweedie for 24-month individual premium forecasting on a ~2M insurance portfolio (end-to-end on GCP, in production).
 - [lapse-prediction-case-study](https://github.com/martinterzano/lapse-prediction-case-study) — Weekly early-lapse classifier with SHAP-driven retention playbooks, benchmarked against Vertex AI AutoML (in production).
 - [churn-donors-case-study](https://github.com/martinterzano/churn-donors-case-study) — Monthly donor churn with walk-forward CV across 13 quarterly folds and a four-segment retention playbook.
